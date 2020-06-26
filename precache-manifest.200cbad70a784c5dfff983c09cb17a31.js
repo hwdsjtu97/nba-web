@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c043f180084c1e8eec0dbc839f5e7bd",
+    "revision": "88d5a9d350dca069b3e9d9ddf91d9017",
     "url": "/nba-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nba-web/static/css/2.48db8b0f.chunk.css"
   },
   {
-    "revision": "c6b2d993c4f0ddaff915",
+    "revision": "e8217b6a56643555e4a8",
     "url": "/nba-web/static/css/main.ee8d5d63.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nba-web/static/js/2.9f75ced3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6b2d993c4f0ddaff915",
-    "url": "/nba-web/static/js/main.f9cf280b.chunk.js"
+    "revision": "e8217b6a56643555e4a8",
+    "url": "/nba-web/static/js/main.90b55f4e.chunk.js"
   },
   {
     "revision": "f4f7a9a0fd85066b3641",
