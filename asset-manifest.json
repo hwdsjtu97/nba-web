@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nba-web/static/css/main.ee8d5d63.chunk.css",
+    "main.js": "/nba-web/static/js/main.799ff235.chunk.js",
+    "main.js.map": "/nba-web/static/js/main.799ff235.chunk.js.map",
+    "runtime-main.js": "/nba-web/static/js/runtime-main.46db1161.js",
+    "runtime-main.js.map": "/nba-web/static/js/runtime-main.46db1161.js.map",
+    "static/css/2.48db8b0f.chunk.css": "/nba-web/static/css/2.48db8b0f.chunk.css",
+    "static/js/2.9f75ced3.chunk.js": "/nba-web/static/js/2.9f75ced3.chunk.js",
+    "static/js/2.9f75ced3.chunk.js.map": "/nba-web/static/js/2.9f75ced3.chunk.js.map",
+    "index.html": "/nba-web/index.html",
+    "precache-manifest.ecbf943660f6d4aeaf7f3c86dbf0077b.js": "/nba-web/precache-manifest.ecbf943660f6d4aeaf7f3c86dbf0077b.js",
+    "service-worker.js": "/nba-web/service-worker.js",
+    "static/css/2.48db8b0f.chunk.css.map": "/nba-web/static/css/2.48db8b0f.chunk.css.map",
+    "static/css/main.ee8d5d63.chunk.css.map": "/nba-web/static/css/main.ee8d5d63.chunk.css.map",
+    "static/js/2.9f75ced3.chunk.js.LICENSE.txt": "/nba-web/static/js/2.9f75ced3.chunk.js.LICENSE.txt",
+    "static/media/nba-logoman-word-white.svg": "/nba-web/static/media/nba-logoman-word-white.9470e2d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46db1161.js",
+    "static/css/2.48db8b0f.chunk.css",
+    "static/js/2.9f75ced3.chunk.js",
+    "static/css/main.ee8d5d63.chunk.css",
+    "static/js/main.799ff235.chunk.js"
+  ]
+}
